@@ -1,0 +1,9 @@
+{
+  "name": "ppt-conv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ppt2png": "^0.0.6"
+  }
+}
